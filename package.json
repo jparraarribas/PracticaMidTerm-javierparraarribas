@@ -7,8 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint ." ,
-    "lint:html" : "htmlhint ./index.html"
+    "lint": "eslint .",
+    "lint:html": "htmlhint ./index.html"
 
   },
   "devDependencies": {
